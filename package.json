@@ -1,0 +1,12 @@
+{
+    "name": "@drawdy-extensions/relationships",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite --config ../../tooling/vite.config.ts",
+        "build": "node ../../tooling/build.ts",
+        "typecheck": "tsc --noEmit",
+        "test": "node --test test/*.test.ts"
+    }
+}

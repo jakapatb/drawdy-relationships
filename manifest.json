@@ -1,0 +1,8 @@
+{
+    "driverId": "jakapatb.relationships",
+    "driverName": "Relationships",
+    "driverVersion": "0.1.0",
+    "description": "Map relationships between people: avatar bubbles, labeled relation arrows and color presets.",
+    "main": "main.js",
+    "permissions": ["dom", "scene", "storage"]
+}
